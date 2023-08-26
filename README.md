@@ -5,17 +5,7 @@
 <p align="left">My name is Saeid Tavazani and I am a JavaScript developer with 5 years of experience from Isfahan, Iran. I am proficient in various JavaScript frameworks and tools, such as React and Node.js. I have developed several web applications and have a strong understanding of front-end and back-end development. I am passionate about writing clean and efficient code and staying up-to-date with the latest industry trends. I am actively seeking new opportunities to further enhance my skills and contribute to challenging projects.<br><br>I am learning docker<br>I am very interested in network and security<br>And I write After Effects extensions part-time</p>
 
 ###
-
 <br clear="both">
-
-<p align="left"></p>
-
-###
-
-<br clear="both">
-
-<p align="left"></p>
-
 ###
 
 <h2 align="left">Skills</h2>
