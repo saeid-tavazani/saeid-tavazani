@@ -2,17 +2,68 @@
 
 ###
 
-<p align="left">My name is Saeid Tavazani and I am a JavaScript developer with 5 years of experience from Isfahan, Iran. I am proficient in various JavaScript frameworks and tools, such as React and Node.js. I have developed several web applications and have a strong understanding of front-end and back-end development. I am passionate about writing clean and efficient code and staying up-to-date with the latest industry trends. I am actively seeking new opportunities to further enhance my skills and contribute to challenging projects.<br><br>I am learning docker<br>I am very interested in network and security<br>And I write After Effects extensions part-time</p>
+<p align="left">My name is Saeed Tawazani and I am a JavaScript developer with 5 years of experience. I am proficient in various JavaScript frameworks and tools such as React and Node.js. I have developed several web applications and have a strong understanding of front-end and back-end development. I am passionate about writing clean and efficient code and staying up to date with the latest industry trends. I actively seek new opportunities to further enhance my skills and participate in challenging projects.<br><br>I am learning docker<br>I am very interested in network and security<br>And I write After Effects plugins part time</p>
 
 ###
-<br clear="both">
 
 <h2 align="left">Skills</h2>
 
 ###
 
-<div style=" display: flex; align-items: center; gap: 15px; height: fit-content; padding: 20px 0; flex-wrap: wrap; justify-content: center; "> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=js" src="https://camo.githubusercontent.com/a4199191bff0e00930a78bbcd5f4257c4db4efc3d4bf3b19ca16041751b4c1be/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" alt="javascript logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=nodejs" src="https://camo.githubusercontent.com/15d91b1526dc4bc7312db29b376075f09479855c802b57d730a764847ee497c1/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="nodejs logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=react" src="https://camo.githubusercontent.com/86ce870479afdbfa7075d5b25bff8642dd4894a061c920ea9a49d3f77c74b55b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374" alt="react logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=nextjs" src="https://camo.githubusercontent.com/c55a5fc9aee6efafa01a33c78502d5b075fc9071df09f7c36bd59665de0ebbd4/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6578746a73" alt="nextjs logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=express" src="https://camo.githubusercontent.com/92a295910076b8f4b5baa465654123887e2179e74a00b91713a0122919cb7e13/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373" alt="express logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=jquery" src="https://camo.githubusercontent.com/10f562340c9fa9ae83db3341791e263aa39275aaea91ae0bb133b49def2d4c4d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a7175657279" alt="jquery logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=html" src="https://camo.githubusercontent.com/d5018e8d6194afbc0a7874bf55df5e7b0111f8abe4e622ae2200b124e33d6fe2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" alt="html5 logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=css" src="https://camo.githubusercontent.com/0e09bd8aa8f06b2a1946dddff9415ba1df25f461852741979c5bb7bdc4860908/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" alt="css3 logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=tailwind" src="https://camo.githubusercontent.com/edbc72808229088568aceb3e147c8518743f518a4aa679662774701ce275a796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" alt="tailwindcss logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=bootstrap" src="https://camo.githubusercontent.com/5e8b6a8e8f07b3041792f726f0b2efd62a016ec24b743bf1e4a5c6e6423f86e3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" alt="bootstrap logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=mysql" src="https://camo.githubusercontent.com/4004b2f7fa33c1cd04eef3e56a050c29463f9d613d00506464a4151edfca3d73/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d7973716c" alt="mysql logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=mongodb" src="https://camo.githubusercontent.com/ffb54a4ebda0615bb3b2ca2c620fbd516cda7b0d855b31b86a5648b00ac2cbcc/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" alt="mongodb logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=linux" src="https://camo.githubusercontent.com/88034950e03b3c109dec93b1e35db0d960bf4fceb748d80a131363bd2336e12e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e7578" alt="linux logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=postman" src="https://camo.githubusercontent.com/725153d2734988e77d0976119450458f36002d67980e4689a9e254f21463407b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f73746d616e" alt="postman logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=php" src="https://camo.githubusercontent.com/024da5f4ca5e509886f05804b01bcf0edb56d297e3ad5817a8235afb054607f1/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870" alt="php logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://skillicons.dev/icons?i=wordpress" src="https://camo.githubusercontent.com/7f82de309bf3f08d8f67faaa5f9f0064fb1512fa30f49e310c93c267e52fa61a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d776f72647072657373" alt="wordpress logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" src="https://camo.githubusercontent.com/bc99d08c91b9671c97693fbf00221d6b6473f2a4bfde01ad1bfaca61bd0de79e/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f61646f626570686f746f73686f702f333141384646" alt="photoshop logo" /> <samp style="width: 10px"></samp> <img height="40" data-canonical-src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" src="https://camo.githubusercontent.com/95e7b8e859cb88a445636af0385870c3c796e252c3cefe1be6912540dcd711aa/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f61646f62656166746572656666656374732f393939394646" alt="aftereffects logo" /></div>
-
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="40" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pug" height="40" alt="pug logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
 
 ###
